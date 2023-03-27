@@ -1,0 +1,11 @@
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\bin\Debug\TP7PicoDiego.exe.config
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\bin\Debug\TP7PicoDiego.exe
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\bin\Debug\TP7PicoDiego.pdb
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.csproj.AssemblyReference.cache
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.Form1.resources
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.Properties.Resources.resources
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.csproj.GenerateResource.cache
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.exe
+C:\Users\Diego Pico\source\repos\TP7PicoDiego\TP7PicoDiego\obj\Debug\TP7PicoDiego.pdb
